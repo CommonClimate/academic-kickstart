@@ -47,11 +47,11 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Julien Emile-Geay"
@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "jeg_portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "julieng [at] usc [dot] edu"
+  email = "julieneg [at] usc [dot] edu"
   address = "ZHS 275, 3651 Trousdale Parkway, CA 90089, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "(213) 740 2945"
@@ -96,7 +96,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 0
   map_api_key = ""
   latitude = "34.0224"
   longitude = "-118.2851"
