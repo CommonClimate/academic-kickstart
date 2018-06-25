@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -62,8 +62,8 @@ enableGitInfo = false
   organizations = [ { name = "University of Southern California", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
+  avatar = "jeg_portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "julieng [at] usc [dot] edu"
   address = "ZHS 275, 3651 Trousdale Parkway, CA 90089, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "(213) 740 2945"
