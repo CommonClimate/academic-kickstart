@@ -33,12 +33,11 @@ filter_default = 0
 #   tag = "*"
 #  
 # [[filter]]
-#   name = "Deep Learning"
-#   tag = ".deep-learning"
+#   name = "Linked Earth"
+#   tag = ".informatics"
 #
 # [[filter]]
-#   name = "Other"
-#   tag = ".demo"
+#   name = "Last Millennium Reanalysis"
+#   tag = ".da"
 
 +++
-
